@@ -1,5 +1,7 @@
 # Bias Audit Report: Financial Credit Scoring 🏦⚖️
----
+
+
+
 ## Developed by HerTech Hive
 
 This repository contains a comprehensive bias audit and mitigation framework for financial credit scoring models. The project specifically investigates Age-based discrimination, evaluating whether younger applicants are unfairly disadvantaged by automated lending algorithms.
